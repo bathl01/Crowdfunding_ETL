@@ -1,7 +1,7 @@
 # Crowdfunding_ETL
 Mini Project 2 - Data Vizualization & Analysis
 
-#Team 17 - Jack Wall & Laura Bathke
+# Team 17 - Jack Wall & Laura Bathke
 
 # ETL: Extract, Transform, Load:
 1. Extract: readthe data from multiple sources/formats
