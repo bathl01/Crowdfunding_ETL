@@ -12,8 +12,13 @@ Mini Project 2 - Data Vizualization & Analysis
 ### Create the Category and Subcategory DataFrames - Laura Bathke reviewed by Jack Wall
 ### Create the Campaign DataFrame - Laura Bathke reviewed by Jack Wall
 ### Create the Contacts DataFrame
-  1. Option 1: Use Python dictionary methods. - Jack Wall reviewed by Laura Bathke
-  2. Option 2: Use regular expressions. - Jointly Jack Wall and Laura Bathke
+  * Option 1: Use Python dictionary methods. - Jack Wall reviewed by Laura Bathke
+  * Option 2: Use regular expressions. - Jointly Jack Wall and Laura Bathke
 ### Create the Crowdfunding Database 
-  1. Schema using QuickDBD - Jack Wall Reviewed by Laura Bathke  
-  2. Postgres Tables & queries - Jack Wall and Laura Bathke
+  * Schema using QuickDBD - Jack Wall Reviewed by Laura Bathke  
+  * Postgres Tables & queries - Jack Wall and Laura Bathke
+
+## Acknowledgements
+* ChatGPT - for error resolution
+* Stack Overflow - numpy arrays and datetime formatting
+* GitHub Docs- Basic writing and Formatting or Read Me
